@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\bin\Debug\net5.0\Entidades.Primer.Parcial.deps.json
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\bin\Debug\net5.0\Entidades.Primer.Parcial.dll
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\bin\Debug\net5.0\ref\Entidades.Primer.Parcial.dll
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\bin\Debug\net5.0\Entidades.Primer.Parcial.pdb
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\Entidades.Primer.Parcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\Entidades.Primer.Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\Entidades.Primer.Parcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\Entidades.Primer.Parcial.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\Entidades.Primer.Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\Entidades.Primer.Parcial.dll
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\ref\Entidades.Primer.Parcial.dll
+C:\Users\Usuario\source\repos\SosaSegovia.EduardoAndres.2A\LExamen\obj\Debug\net5.0\Entidades.Primer.Parcial.pdb
