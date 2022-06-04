@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\LEjercicioIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\LEjercicioIntegrador.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\LEjercicioIntegrador.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\LEjercicioIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\bin\Debug\net5.0\LEjercicioIntegrador.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\bin\Debug\net5.0\LEjercicioIntegrador.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\bin\Debug\net5.0\ref\LEjercicioIntegrador.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\bin\Debug\net5.0\LEjercicioIntegrador.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\LEjercicioIntegrador.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\LEjercicioIntegrador.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\ref\LEjercicioIntegrador.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEjercicioIntegrador\obj\Debug\net5.0\LEjercicioIntegrador.pdb

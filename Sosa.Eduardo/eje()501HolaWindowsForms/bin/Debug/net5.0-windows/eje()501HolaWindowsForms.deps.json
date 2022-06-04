@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "eje()501HolaWindowsForms/1.0.0": {
+        "dependencies": {
+          "Saludo": "1.0.0"
+        },
+        "runtime": {
+          "eje()501HolaWindowsForms.dll": {}
+        }
+      },
+      "Saludo/1.0.0": {
+        "runtime": {
+          "Saludo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eje()501HolaWindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Saludo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

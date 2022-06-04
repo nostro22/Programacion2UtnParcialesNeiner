@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\bin\Debug\net5.0\eje()205.exe
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\bin\Debug\net5.0\eje()205.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\bin\Debug\net5.0\eje()205.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\bin\Debug\net5.0\eje()205.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\bin\Debug\net5.0\eje()205.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\bin\Debug\net5.0\ref\eje()205.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\bin\Debug\net5.0\eje()205.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\ref\eje()205.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()205\obj\Debug\net5.0\eje()205.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Lavadero2016\obj\Debug\net5.0\Lavadero2016.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Lavadero2016\obj\Debug\net5.0\Lavadero2016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Lavadero2016\obj\Debug\net5.0\Lavadero2016.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Lavadero2016\obj\Debug\net5.0\Lavadero2016.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Lavadero2016\obj\Debug\net5.0\Lavadero2016.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\bin\Debug\net5.0\LiberiaDispositivo.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\bin\Debug\net5.0\LiberiaDispositivo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\bin\Debug\net5.0\ref\LiberiaDispositivo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\bin\Debug\net5.0\LiberiaDispositivo.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\LiberiaDispositivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\LiberiaDispositivo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\LiberiaDispositivo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\LiberiaDispositivo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\LiberiaDispositivo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\ref\LiberiaDispositivo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\LiberiaDispositivo.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LiberiaDispositivo\obj\Debug\net5.0\LiberiaDispositivo.csproj.AssemblyReference.cache

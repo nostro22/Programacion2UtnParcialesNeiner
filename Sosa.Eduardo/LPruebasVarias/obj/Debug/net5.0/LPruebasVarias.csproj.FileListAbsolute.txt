@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\bin\Debug\net5.0\LPruebasVarias.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\bin\Debug\net5.0\LPruebasVarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\bin\Debug\net5.0\ref\LPruebasVarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\bin\Debug\net5.0\LPruebasVarias.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\LPruebasVarias.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\LPruebasVarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\LPruebasVarias.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\LPruebasVarias.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\LPruebasVarias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\LPruebasVarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\ref\LPruebasVarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPruebasVarias\obj\Debug\net5.0\LPruebasVarias.pdb

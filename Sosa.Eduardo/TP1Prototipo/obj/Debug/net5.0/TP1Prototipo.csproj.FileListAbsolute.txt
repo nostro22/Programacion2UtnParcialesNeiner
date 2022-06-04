@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\bin\Debug\net5.0\TP1Prototipo.exe
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\bin\Debug\net5.0\TP1Prototipo.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\bin\Debug\net5.0\TP1Prototipo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\bin\Debug\net5.0\TP1Prototipo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\bin\Debug\net5.0\TP1Prototipo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\bin\Debug\net5.0\ref\TP1Prototipo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\bin\Debug\net5.0\TP1Prototipo.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\ref\TP1Prototipo.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\TP1Prototipo\obj\Debug\net5.0\TP1Prototipo.genruntimeconfig.cache

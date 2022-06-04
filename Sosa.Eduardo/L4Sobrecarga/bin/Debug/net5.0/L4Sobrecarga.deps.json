@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "L4Sobrecarga/1.0.0": {
+        "runtime": {
+          "L4Sobrecarga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L4Sobrecarga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\bin\Debug\net5.0\eje()1.exe
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\bin\Debug\net5.0\eje()1.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\bin\Debug\net5.0\eje()1.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\bin\Debug\net5.0\eje()1.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\bin\Debug\net5.0\eje()1.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\bin\Debug\net5.0\ref\eje()1.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\bin\Debug\net5.0\eje()1.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\ref\eje()1.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()1\obj\Debug\net5.0\eje()1.csproj.AssemblyReference.cache

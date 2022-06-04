@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAppEnumerados/1.0.0": {
+        "dependencies": {
+          "LEnumeadosTinta": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppEnumerados.dll": {}
+        }
+      },
+      "LEnumeadosTinta/1.0.0": {
+        "runtime": {
+          "LEnumeadosTinta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppEnumerados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LEnumeadosTinta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

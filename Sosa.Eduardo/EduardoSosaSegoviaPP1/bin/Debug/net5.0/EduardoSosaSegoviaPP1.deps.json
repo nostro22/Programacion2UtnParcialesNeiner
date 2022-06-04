@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EduardoSosaSegoviaPP1/1.0.0": {
+        "dependencies": {
+          "LibraryMascotas": "1.0.0"
+        },
+        "runtime": {
+          "EduardoSosaSegoviaPP1.dll": {}
+        }
+      },
+      "LibraryMascotas/1.0.0": {
+        "runtime": {
+          "LibraryMascotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EduardoSosaSegoviaPP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryMascotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

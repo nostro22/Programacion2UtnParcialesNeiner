@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\bin\Debug\net5.0\LibreriaBar.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\bin\Debug\net5.0\LibreriaBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\bin\Debug\net5.0\ref\LibreriaBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\bin\Debug\net5.0\LibreriaBar.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\LibreriaBar.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\LibreriaBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\LibreriaBar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\LibreriaBar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\LibreriaBar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\LibreriaBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\ref\LibreriaBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibreriaBar\obj\Debug\net5.0\LibreriaBar.pdb

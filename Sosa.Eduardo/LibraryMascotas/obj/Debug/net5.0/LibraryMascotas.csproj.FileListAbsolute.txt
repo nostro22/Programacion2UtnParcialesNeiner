@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\bin\Debug\net5.0\LibraryMascotas.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\bin\Debug\net5.0\LibraryMascotas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\bin\Debug\net5.0\ref\LibraryMascotas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\bin\Debug\net5.0\LibraryMascotas.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\LibraryMascotas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\LibraryMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\LibraryMascotas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\LibraryMascotas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\LibraryMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\LibraryMascotas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\ref\LibraryMascotas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryMascotas\obj\Debug\net5.0\LibraryMascotas.pdb

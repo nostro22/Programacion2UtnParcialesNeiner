@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\bin\Debug\net5.0\LEnumeadosTinta.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\bin\Debug\net5.0\LEnumeadosTinta.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\bin\Debug\net5.0\ref\LEnumeadosTinta.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\bin\Debug\net5.0\LEnumeadosTinta.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\LEnumeadosTinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\LEnumeadosTinta.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\LEnumeadosTinta.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\LEnumeadosTinta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\LEnumeadosTinta.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\ref\LEnumeadosTinta.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\LEnumeadosTinta.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LEnumeadosTinta\obj\Debug\net5.0\LEnumeadosTinta.csproj.AssemblyReference.cache

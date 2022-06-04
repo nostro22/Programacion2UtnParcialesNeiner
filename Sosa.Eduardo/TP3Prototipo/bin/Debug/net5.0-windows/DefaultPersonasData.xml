@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAfiliado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona xsi:type="Afiliado">
+    <Dni>95768450</Dni>
+    <Nombre>Eduardo Sosa</Nombre>
+    <FechaNacimiento>2022-06-02T23:18:29.6783812-03:00</FechaNacimiento>
+    <FechaContratacion>2022-06-02T23:18:29.6790519-03:00</FechaContratacion>
+  </Persona>
+  <Persona xsi:type="Afiliado">
+    <Dni>957854</Dni>
+    <Nombre>Andres Sosa</Nombre>
+    <FechaNacimiento>2022-06-02T23:18:29.679179-03:00</FechaNacimiento>
+    <FechaContratacion>2022-06-02T23:18:29.6791794-03:00</FechaContratacion>
+  </Persona>
+  <Persona xsi:type="Afiliado">
+    <Dni>66851</Dni>
+    <Nombre>Maria Sosa</Nombre>
+    <FechaNacimiento>2022-06-02T23:18:29.6791797-03:00</FechaNacimiento>
+    <FechaContratacion>2022-06-02T23:18:29.6791798-03:00</FechaContratacion>
+  </Persona>
+  <Persona xsi:type="Afiliado">
+    <Dni>51251</Dni>
+    <Nombre>Pedro Sosa</Nombre>
+    <FechaNacimiento>2022-06-02T23:18:29.6791799-03:00</FechaNacimiento>
+    <FechaContratacion>2022-06-02T23:18:29.67918-03:00</FechaContratacion>
+  </Persona>
+</ArrayOfPersona>

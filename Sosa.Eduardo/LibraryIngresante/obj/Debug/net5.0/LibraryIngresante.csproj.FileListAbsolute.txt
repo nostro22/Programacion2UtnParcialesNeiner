@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\bin\Debug\net5.0\LibraryIngresante.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\bin\Debug\net5.0\LibraryIngresante.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\bin\Debug\net5.0\ref\LibraryIngresante.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\bin\Debug\net5.0\LibraryIngresante.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\LibraryIngresante.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\LibraryIngresante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\LibraryIngresante.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\LibraryIngresante.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\LibraryIngresante.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\LibraryIngresante.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\ref\LibraryIngresante.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryIngresante\obj\Debug\net5.0\LibraryIngresante.pdb

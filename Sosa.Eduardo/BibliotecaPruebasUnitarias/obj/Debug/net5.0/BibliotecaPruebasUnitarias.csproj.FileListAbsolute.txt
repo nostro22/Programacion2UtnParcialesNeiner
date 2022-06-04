@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\bin\Debug\net5.0\BibliotecaPruebasUnitarias.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\bin\Debug\net5.0\BibliotecaPruebasUnitarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\bin\Debug\net5.0\ref\BibliotecaPruebasUnitarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\bin\Debug\net5.0\BibliotecaPruebasUnitarias.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\BibliotecaPruebasUnitarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\BibliotecaPruebasUnitarias.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\BibliotecaPruebasUnitarias.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\BibliotecaPruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\BibliotecaPruebasUnitarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\ref\BibliotecaPruebasUnitarias.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\BibliotecaPruebasUnitarias.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\BibliotecaPruebasUnitarias\obj\Debug\net5.0\BibliotecaPruebasUnitarias.csproj.AssemblyReference.cache

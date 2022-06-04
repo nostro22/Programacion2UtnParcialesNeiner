@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\LExceptionLanzarAtrapar.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\LExceptionLanzarAtrapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\LExceptionLanzarAtrapar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\LExceptionLanzarAtrapar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\LExceptionLanzarAtrapar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\bin\Debug\net5.0\LExceptionLanzarAtrapar.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\bin\Debug\net5.0\LExceptionLanzarAtrapar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\bin\Debug\net5.0\ref\LExceptionLanzarAtrapar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\bin\Debug\net5.0\LExceptionLanzarAtrapar.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\LExceptionLanzarAtrapar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\ref\LExceptionLanzarAtrapar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LExceptionLanzarAtrapar\obj\Debug\net5.0\LExceptionLanzarAtrapar.pdb

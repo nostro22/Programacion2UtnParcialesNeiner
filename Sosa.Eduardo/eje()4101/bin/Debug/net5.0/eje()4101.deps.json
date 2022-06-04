@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "eje()4101/1.0.0": {
+        "dependencies": {
+          "L4Sobrecarga": "1.0.0"
+        },
+        "runtime": {
+          "eje()4101.dll": {}
+        }
+      },
+      "L4Sobrecarga/1.0.0": {
+        "runtime": {
+          "L4Sobrecarga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eje()4101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "L4Sobrecarga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

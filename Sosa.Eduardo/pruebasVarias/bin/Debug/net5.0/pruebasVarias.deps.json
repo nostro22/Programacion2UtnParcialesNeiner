@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pruebasVarias/1.0.0": {
+        "dependencies": {
+          "LPruebasVarias": "1.0.0"
+        },
+        "runtime": {
+          "pruebasVarias.dll": {}
+        }
+      },
+      "LPruebasVarias/1.0.0": {
+        "runtime": {
+          "LPruebasVarias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebasVarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LPruebasVarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

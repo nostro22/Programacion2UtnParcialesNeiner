@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\bin\Debug\net5.0\LBar.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\bin\Debug\net5.0\LBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\bin\Debug\net5.0\ref\LBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\bin\Debug\net5.0\LBar.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\LBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\LBar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\LBar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\LBar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\LBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\ref\LBar.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\LBar.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LBar\obj\Debug\net5.0\LBar.csproj.AssemblyReference.cache

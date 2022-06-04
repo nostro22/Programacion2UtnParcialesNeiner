@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormPrincipalSosa/1.0.0": {
+        "dependencies": {
+          "LiberiaDispositivo": "1.0.0"
+        },
+        "runtime": {
+          "FormPrincipalSosa.dll": {}
+        }
+      },
+      "LiberiaDispositivo/1.0.0": {
+        "runtime": {
+          "LiberiaDispositivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormPrincipalSosa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiberiaDispositivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

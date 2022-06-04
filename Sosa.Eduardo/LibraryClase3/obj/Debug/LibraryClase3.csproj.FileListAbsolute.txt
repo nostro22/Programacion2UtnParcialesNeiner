@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryClase3\bin\Debug\LibraryClase3.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryClase3\bin\Debug\LibraryClase3.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryClase3\obj\Debug\LibraryClase3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryClase3\obj\Debug\LibraryClase3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryClase3\obj\Debug\LibraryClase3.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LibraryClase3\obj\Debug\LibraryClase3.pdb

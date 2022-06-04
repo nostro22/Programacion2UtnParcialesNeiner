@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()5\bin\Debug\eje()5.exe.config
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()5\bin\Debug\eje()5.exe
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()5\bin\Debug\eje()5.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()5\obj\Debug\eje()5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()5\obj\Debug\eje()5.exe
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()5\obj\Debug\eje()5.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\eje()5\obj\Debug\eje()5.csproj.AssemblyReference.cache

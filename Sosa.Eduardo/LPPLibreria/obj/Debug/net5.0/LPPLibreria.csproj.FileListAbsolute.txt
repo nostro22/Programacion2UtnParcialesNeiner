@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\bin\Debug\net5.0\LPPLibreria.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\bin\Debug\net5.0\LPPLibreria.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\bin\Debug\net5.0\ref\LPPLibreria.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\bin\Debug\net5.0\LPPLibreria.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\LPPLibreria.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\LPPLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\LPPLibreria.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\LPPLibreria.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\LPPLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\LPPLibreria.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\ref\LPPLibreria.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LPPLibreria\obj\Debug\net5.0\LPPLibreria.pdb

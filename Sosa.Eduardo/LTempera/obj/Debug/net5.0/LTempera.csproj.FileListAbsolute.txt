@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\bin\Debug\net5.0\LTempera.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\bin\Debug\net5.0\LTempera.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\bin\Debug\net5.0\ref\LTempera.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\bin\Debug\net5.0\LTempera.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\LTempera.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\LTempera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\LTempera.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\LTempera.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\LTempera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\LTempera.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\ref\LTempera.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LTempera\obj\Debug\net5.0\LTempera.pdb

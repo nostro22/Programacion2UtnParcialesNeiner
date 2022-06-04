@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LibreriaBar/1.0.0": {
+        "runtime": {
+          "LibreriaBar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibreriaBar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LiberiaDispositivo/1.0.0": {
+        "runtime": {
+          "LiberiaDispositivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiberiaDispositivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

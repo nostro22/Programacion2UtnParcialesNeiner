@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\bin\Debug\net5.0\LConversorTemperaturas.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\bin\Debug\net5.0\LConversorTemperaturas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\bin\Debug\net5.0\ref\LConversorTemperaturas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\bin\Debug\net5.0\LConversorTemperaturas.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\obj\Debug\net5.0\LConversorTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\obj\Debug\net5.0\LConversorTemperaturas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\obj\Debug\net5.0\LConversorTemperaturas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\obj\Debug\net5.0\LConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\obj\Debug\net5.0\LConversorTemperaturas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\obj\Debug\net5.0\ref\LConversorTemperaturas.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LConversorTemperaturas\obj\Debug\net5.0\LConversorTemperaturas.pdb

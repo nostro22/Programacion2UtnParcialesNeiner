@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\bin\Debug\net5.0\Billetes.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\bin\Debug\net5.0\Billetes.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\bin\Debug\net5.0\ref\Billetes.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\bin\Debug\net5.0\Billetes.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\Billetes.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\Billetes.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\ref\Billetes.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\Billetes.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Billetes\obj\Debug\net5.0\Billetes.csproj.AssemblyReference.cache

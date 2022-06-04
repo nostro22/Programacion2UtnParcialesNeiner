@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\bin\Debug\net5.0\LInstrumentos.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\bin\Debug\net5.0\LInstrumentos.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\bin\Debug\net5.0\ref\LInstrumentos.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\bin\Debug\net5.0\LInstrumentos.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\LInstrumentos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\LInstrumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\LInstrumentos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\LInstrumentos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\LInstrumentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\LInstrumentos.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\ref\LInstrumentos.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\LInstrumentos\obj\Debug\net5.0\LInstrumentos.pdb

@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\bin\Debug\net5.0\Interfaces.2020.exe
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\bin\Debug\net5.0\Interfaces.2020.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\bin\Debug\net5.0\Interfaces.2020.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\bin\Debug\net5.0\Interfaces.2020.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\bin\Debug\net5.0\Interfaces.2020.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\bin\Debug\net5.0\ref\Interfaces.2020.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\bin\Debug\net5.0\Interfaces.2020.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\ref\Interfaces.2020.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Interfaces.2020\obj\Debug\net5.0\Interfaces.2020.genruntimeconfig.cache

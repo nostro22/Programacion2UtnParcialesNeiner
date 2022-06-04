@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAppBar/1.0.0": {
+        "dependencies": {
+          "LBar": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppBar.dll": {}
+        }
+      },
+      "LBar/1.0.0": {
+        "runtime": {
+          "LBar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppBar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LBar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

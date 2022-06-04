@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\bin\Debug\net5.0\Generics.exe
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\bin\Debug\net5.0\Generics.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\bin\Debug\net5.0\Generics.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\Generics.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\Generics.pdb
+C:\Users\Usuario\source\repos\Sosa.Eduardo\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
